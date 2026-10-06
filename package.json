@@ -1,0 +1,39 @@
+{
+  "name": "@drdustinedwards/site-helpers",
+  "version": "0.1.0",
+  "description": "The XML escaping, RSS/Atom/JSON feed, sitemap, llms.txt and FTS5 search helpers the Dustin Edwards sites each wrote for themselves, once.",
+  "type": "module",
+  "license": "MIT",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./index.d.mts",
+      "default": "./index.mjs"
+    },
+    "./xml": {
+      "types": "./xml.d.mts",
+      "default": "./xml.mjs"
+    },
+    "./feeds": {
+      "types": "./feeds.d.mts",
+      "default": "./feeds.mjs"
+    },
+    "./sitemap": {
+      "types": "./sitemap.d.mts",
+      "default": "./sitemap.mjs"
+    },
+    "./llms": {
+      "types": "./llms.d.mts",
+      "default": "./llms.mjs"
+    },
+    "./search": {
+      "types": "./search.d.mts",
+      "default": "./search.mjs"
+    }
+  },
+  "files": [
+    "*.mjs",
+    "*.d.mts",
+    "README.md"
+  ]
+}
