@@ -1,0 +1,43 @@
+{"id":"none","failed":[],"status":0}
+{"id":"0","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte","sitemap: a loc with an ampersand does not end the document"],"status":1}
+{"id":"2","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"3","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"1","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"6","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"5","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"4","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"7","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"9","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"8","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"10","failed":[],"status":0}
+{"id":"11","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"12","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"14","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"13","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"15","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"16","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte","sitemap: a loc with an ampersand does not end the document"],"status":1}
+{"id":"17","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"18","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"19","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"20","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"22","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: a loc with an ampersand does not end the document"],"status":1}
+{"id":"21","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"23","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"24","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"26","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"25","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"27","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"28","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"29","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"30","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"31","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"32","failed":[],"status":0}
+{"id":"33","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"34","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"35","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"36","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"38","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"37","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte","sitemap: a loc with an ampersand does not end the document"],"status":1}
+{"id":"39","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
+{"id":"40","failed":["sitemap: germomics' compact document with no trailing newline is reproduced byte for byte"],"status":1}
+{"id":"41","failed":["sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte"],"status":1}
