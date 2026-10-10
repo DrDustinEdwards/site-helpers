@@ -21,8 +21,9 @@ any change to the output. That is why most tests kill many mutants.
 
 Prelum tests with `node:test`, which Stryker has no runner for (and 10.0.0 has a
 Babel 8 parser bug, so 9.6.1). The run uses the `command` runner with
-`coverageAnalysis: off`, `disableBail: true`, concurrency 4, timeout 10 s. The
-command is `docs/research`-independent: a small wrapper ran the whole test file
+`coverageAnalysis: off`, `disableBail: true`, concurrency 4, timeout 10 s. A
+small wrapper (`docs/research/kill-runner.mjs`, run as the Stryker command with
+`CHUNK=<file> OUT=<dir>`) ran the whole test file
 once per mutant and logged which tests failed, which is what makes a per-test kill
 matrix possible without per-test coverage. `ignoreStatic` needs per-test coverage,
 so it is off and no mutant is ignored (Foxhound ignored 2,422 static ones).
