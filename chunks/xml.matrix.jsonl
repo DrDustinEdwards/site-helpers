@@ -1,0 +1,143 @@
+{"id":"none","failed":[],"status":0}
+{"id":"2","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"1","failed":["sitemap: a loc with an ampersand does not end the document","xml: escapeXml covers all five entities and escapeXmlText leaves the quotes","xml: escaping the ampersand first does not double-escape","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"3","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"0","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","sitemap: foxhound's expanded document with datetimes, changefreq and priority is reproduced byte for byte","sitemap: a loc with an ampersand does not end the document","xml: escapeXml covers all five entities and escapeXmlText leaves the quotes","xml: escaping the ampersand first does not double-escape","xml: the sites' feed fragments are the primitives' output","feeds: itemPath moves a post's URL in all three formats"],"status":1}
+{"id":"5","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes"],"status":1}
+{"id":"4","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"7","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes"],"status":1}
+{"id":"6","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes"],"status":1}
+{"id":"9","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes"],"status":1}
+{"id":"8","failed":["xml: escapeXml covers all five entities and escapeXmlText leaves the quotes"],"status":1}
+{"id":"10","failed":["xml: a CDATA section survives a ]]> inside its text","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"11","failed":["xml: a CDATA section survives a ]]> inside its text","xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"12","failed":["xml: a CDATA section survives a ]]> inside its text"],"status":1}
+{"id":"14","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"13","failed":["xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"15","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"16","failed":[],"status":0}
+{"id":"17","failed":[],"status":0}
+{"id":"18","failed":[],"status":0}
+{"id":"19","failed":[],"status":0}
+{"id":"20","failed":[],"status":0}
+{"id":"21","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"23","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"22","failed":[],"status":0}
+{"id":"24","failed":[],"status":0}
+{"id":"26","failed":[],"status":0}
+{"id":"25","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"27","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"28","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"29","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"30","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"31","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"32","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"33","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"34","failed":["xml: the sites' feed fragments are the primitives' output"],"status":1}
+{"id":"35","failed":[],"status":0}
+{"id":"36","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"38","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"37","failed":[],"status":0}
+{"id":"39","failed":[],"status":0}
+{"id":"40","failed":[],"status":0}
+{"id":"43","failed":[],"status":0}
+{"id":"42","failed":[],"status":0}
+{"id":"41","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"44","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"45","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"46","failed":[],"status":0}
+{"id":"47","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"48","failed":[],"status":0}
+{"id":"50","failed":[],"status":0}
+{"id":"49","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"51","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"52","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"53","failed":["xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"55","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"54","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"56","failed":["sitemap: this site's document is reproduced byte for byte","sitemap: germomics' compact document with no trailing newline is reproduced byte for byte","xml: the sites' feed fragments are the primitives' output","xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"57","failed":["xml: dates read as UTC and an unreadable one is the epoch, never today"],"status":1}
+{"id":"58","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"59","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"60","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"61","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"62","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"63","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"64","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"65","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"67","failed":[],"status":0}
+{"id":"66","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"68","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"69","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"71","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"70","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"72","failed":["xml: only a single-slash root-relative URL is made absolute"],"status":1}
+{"id":"73","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"74","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"75","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"77","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"78","failed":[],"status":0}
+{"id":"79","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"81","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"82","failed":[],"status":0}
+{"id":"85","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"86","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"88","failed":[],"status":0}
+{"id":"89","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"91","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"90","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"92","failed":[],"status":0}
+{"id":"93","failed":[],"status":0}
+{"id":"94","failed":[],"status":0}
+{"id":"95","failed":[],"status":0}
+{"id":"96","failed":[],"status":0}
+{"id":"97","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"98","failed":[],"status":0}
+{"id":"99","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"100","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"101","failed":[],"status":0}
+{"id":"102","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"103","failed":[],"status":0}
+{"id":"104","failed":[],"status":0}
+{"id":"105","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"106","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"107","failed":[],"status":0}
+{"id":"108","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"109","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"110","failed":[],"status":0}
+{"id":"111","failed":[],"status":0}
+{"id":"112","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"113","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"114","failed":[],"status":0}
+{"id":"115","failed":[],"status":0}
+{"id":"116","failed":[],"status":0}
+{"id":"117","failed":[],"status":0}
+{"id":"118","failed":[],"status":0}
+{"id":"119","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"120","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"121","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"122","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"123","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"124","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"125","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"126","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"130","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"131","failed":[],"status":0}
+{"id":"132","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"134","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"135","failed":[],"status":0}
+{"id":"136","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"137","failed":[],"status":0}
+{"id":"138","failed":[],"status":0}
+{"id":"140","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"145","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"146","failed":[],"status":0}
+{"id":"147","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"149","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"148","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"151","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"152","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"153","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"154","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"155","failed":["xml: KaTeX markup becomes its TeX"],"status":1}
+{"id":"156","failed":[],"status":0}
