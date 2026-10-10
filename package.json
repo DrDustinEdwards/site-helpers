@@ -35,5 +35,15 @@
     "*.mjs",
     "*.d.mts",
     "README.md"
-  ]
+  ],
+  "scripts": {
+    "lint": "oxlint *.mjs test --deny-warnings",
+    "typecheck": "tsc -p .",
+    "test": "node --test \"test/*.test.mjs\""
+  },
+  "devDependencies": {
+    "@types/node": "24.13.3",
+    "oxlint": "1.80.0",
+    "typescript": "5.9.3"
+  }
 }
