@@ -1,0 +1,41 @@
+{"id":"none","failed":[],"status":0}
+{"id":"1","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"2","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes"],"status":1}
+{"id":"3","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text"],"status":1}
+{"id":"0","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"4","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"5","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"7","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"6","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"9","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"11","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"8","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"10","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"13","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"12","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"14","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"15","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"16","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"17","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"18","failed":["search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"19","failed":["search: a quote inside a term is doubled, so the term cannot leave its quotes","search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"21","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"20","failed":["search: operators and hyphens stay literal text","search: only the last term takes the prefix star, and nothing to match is null"],"status":1}
+{"id":"22","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"23","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"24","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"25","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"26","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"27","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"28","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"29","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"31","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"30","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"33","failed":[],"status":0}
+{"id":"34","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"32","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"35","failed":[],"status":0}
+{"id":"36","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"37","failed":["search: fusion uses k = 60 and adds a document's contributions from every list","search: the fusion constant is the argument's, not a baked-in one"],"status":1}
+{"id":"38","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
+{"id":"39","failed":["search: fusion uses k = 60 and adds a document's contributions from every list"],"status":1}
